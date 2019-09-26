@@ -1,0 +1,5 @@
+br/ufsc/parallelcomp/Main.class
+br/ufsc/parallelcomp/Matrix.class
+br/ufsc/parallelcomp/OrdenadorBubbleSort.class
+br/ufsc/parallelcomp/BenchSortAlgo.class
+br/ufsc/parallelcomp/OrdenadorQuickSort.class
